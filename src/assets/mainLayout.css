@@ -1,0 +1,36 @@
+.ant-layout-header {
+    background: transparent !important;
+}
+
+header.ant-layout-header.site-layout-background {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    padding: 29px !important;
+    align-items: center;
+}
+
+.top-menu {
+    display: flex;
+    background-color:deepskyblue;
+    cursor:pointer;
+    width: 100%;
+}
+
+.search-filter {
+margin-top: 5px;;
+ margin-left: 600px;
+}
+
+.heading-news {
+    margin-left: 40px;
+}
+
+.top-menu p {
+    margin: 0px 15px;
+}
+
+.ant-row.ant-row-center {
+    display: flex;
+    flex-direction: column;
+}
