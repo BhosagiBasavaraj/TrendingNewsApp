@@ -17,7 +17,7 @@ Trending news application Project setup Instructions:
 
     Open Terminal Then Install Below Command
 
-       $npm intall i
+       $npm install i
 
 It will take some time to install all dependency and  node_modules folder, Once its completed excute below command
 
